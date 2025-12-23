@@ -2,4 +2,4 @@ streamlit
 opencv-python-headless
 deepface
 streamlit-webrtc
-tf-keras  # This helps DeepFace/TensorFlow install smoothly sometimes
+tf-keras
